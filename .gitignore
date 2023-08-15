@@ -1,3 +1,16 @@
+# Carpetas
+.cache
+.config
+.upm
+
+# Archivos
+*.txt
+*.nix
+*.toml
+*.lock
+*.replit
+*.breakpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
